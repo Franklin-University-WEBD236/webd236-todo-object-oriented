@@ -1,0 +1,1 @@
+user|O:9:"UserModel":5:{s:2:"id";s:1:"6";s:5:"email";s:25:"garrett.eichels@gmail.com";s:8:"password";s:60:"$2y$10$xSPHBbvBiyEwgcHbJ.JPo.aKPxd8AJrbWSQQrL5yOY2vPtze7vGzi";s:9:"firstName";s:7:"Garrett";s:8:"lastName";s:7:"Eichels";}flash|s:37:"Welcome to To Do List, Garrett.<br />";
